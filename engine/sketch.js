@@ -1,7 +1,7 @@
 var afinn;
 
 function preload() {
-  afinn = loadJSON('engine\afinn111com.json');
+  afinn = loadJSON('https://marketingjump.github.io/afinn111com.json');
 }
 
 function setup() {
