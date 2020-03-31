@@ -1,7 +1,7 @@
 var afinn;
 
 function preload() {
-  afinn = loadJSON('https://www.whatsdigital.it/wp-includes/Text/afinn111com.json');
+  afinn = loadJSON('afinn111com.json');
 }
 
 function setup() {
