@@ -1,7 +1,7 @@
 var afinn;
 
 function preload() {
-  afinn = loadJSON('afinn111com.json');
+  afinn = loadJSON('engine\afinn111com.json');
 }
 
 function setup() {
